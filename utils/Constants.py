@@ -1,0 +1,11 @@
+
+#Communication Utils
+AUTHTOKEN_HEADER = "X-AUTH-TOKEN"
+
+
+#URIs
+AUTH_URI = "/v2.0/tokens"
+VERSION_URI="/"
+#Global
+STATUS_OK = 200
+STATUS_PENDING = 202
